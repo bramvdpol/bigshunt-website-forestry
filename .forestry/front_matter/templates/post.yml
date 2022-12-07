@@ -42,3 +42,4 @@ fields:
   label: Authors
 pages:
 - content/post/hello-world.md
+- content/post/second-test-post.md
